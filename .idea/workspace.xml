@@ -32,10 +32,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.phtml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.phtml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/application/views/index/index.phtml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="78" selection-start="84" selection-end="84" vertical-scroll-proportion="0.02255639" vertical-offset="0" max-vertical-offset="665">
+            <state line="1" column="6" selection-start="12" selection-end="70" vertical-scroll-proportion="-0.625" vertical-offset="0" max-vertical-offset="135">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="58" selection-start="73" selection-end="73" vertical-scroll-proportion="0.045180723" vertical-offset="0" max-vertical-offset="664">
               <folding />
             </state>
           </provider>
@@ -53,6 +62,7 @@
       <list>
         <option value="$PROJECT_DIR$/public/index.php" />
         <option value="$PROJECT_DIR$/application/views/index/index.phtml" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -372,7 +382,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/application/views/index/index.phtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="78" selection-start="84" selection-end="84" vertical-scroll-proportion="0.02255639" vertical-offset="0" max-vertical-offset="665">
+        <state line="1" column="6" selection-start="12" selection-end="70" vertical-scroll-proportion="-0.625" vertical-offset="0" max-vertical-offset="135">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="58" selection-start="73" selection-end="73" vertical-scroll-proportion="0.045180723" vertical-offset="0" max-vertical-offset="664">
           <folding />
         </state>
       </provider>
